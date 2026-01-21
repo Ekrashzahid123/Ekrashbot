@@ -1,0 +1,95 @@
+LinkedIn Profile: Ekrash Zahid
+LinkedIn URL: https://www.linkedin.com/in/ekrash-zahid-51bb76256/
+
+--------------------------------------------------
+
+LINKEDIN PROFILE SUMMARY
+
+I am a passionate Software Engineer and AI Engineer with hands-on experience
+in Machine Learning, Data Science, and backend web development.
+I specialize in building intelligent, scalable applications using Python,
+FastAPI, Flask, and modern AI techniques such as Retrieval-Augmented Generation (RAG).
+
+I enjoy solving real-world problems using data-driven approaches and
+developing AI systems that are efficient, practical, and impactful.
+
+--------------------------------------------------
+
+CURRENT ROLE
+
+AI Engineer Intern – Smart Grade AI (Lahore)
+June 2025 – Present
+
+• Designed and implemented Retrieval-Augmented Generation (RAG) pipelines
+  using LangChain and Large Language Models
+• Integrated vector databases for efficient document retrieval and semantic search
+• Developed and deployed FastAPI-based backend services for AI model inference
+• Focused on low-latency and scalable AI solutions
+
+--------------------------------------------------
+
+WORK EXPERIENCE
+
+Machine Learning Engineer Intern – Gaotek Inc
+October 2024 – June 2025
+
+• Designed, trained, and evaluated machine learning models
+• Performed data preprocessing, feature engineering, and model optimization
+• Worked with TensorFlow for real-world ML applications
+• Collaborated with cross-functional teams to deploy ML solutions
+
+Teacher Assistant – Object-Oriented Programming (OOP)
+University of Management and Technology (UMT), Lahore
+March 2025 – Present
+
+• Assisted students in understanding core OOP concepts
+• Conducted lab sessions and supported coding assignments
+• Explained principles such as inheritance, polymorphism,
+  encapsulation, and abstraction
+
+--------------------------------------------------
+
+PROJECT EXPERIENCE
+
+RAG Teacher AI Chatbot
+
+• Built an AI-powered Teacher Assistant chatbot using LangChain and FastAPI
+• Integrated a Retrieval-Augmented Generation (RAG) pipeline for context-aware responses
+• Used vector search to provide personalized learning insights
+
+AI Image Classification System
+
+• Developed a full-stack AI image classification web application using Flask
+• Implemented CNN-based image classification models
+• Enabled real-time prediction through a web interface
+
+Object Detection Web Application
+
+• Built a real-time object detection system using Flask and TensorFlow.js COCO-SSD
+• Detected common objects directly in the browser
+
+--------------------------------------------------
+
+SKILLS
+
+Programming Languages:
+Python
+
+Frameworks & Tools:
+FastAPI, Flask, LangChain, TensorFlow, NumPy, Pandas
+
+AI & ML:
+Machine Learning, Deep Learning, CNNs, RAG Systems, Vector Databases
+
+Soft Skills:
+Problem-solving, Communication, Teaching, Team Collaboration
+
+--------------------------------------------------
+
+CAREER INTERESTS
+
+• Artificial Intelligence Engineering
+• Machine Learning & Deep Learning
+• Retrieval-Augmented Generation (RAG)
+• Backend API Development
+• AI-powered Web Applications
