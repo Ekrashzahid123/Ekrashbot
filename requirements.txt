@@ -1,3 +1,5 @@
 langchain==0.2.16
 langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-mistralai==0.1.7
 faiss-cpu==1.8.0
